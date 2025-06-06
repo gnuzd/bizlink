@@ -32,9 +32,11 @@
 		"vite": "^6.2.6"
 	},
 	"dependencies": {
+		"@tailwindcss/vite": "^4.1.8",
 		"@trpc/client": "^11.2.0",
 		"@trpc/server": "^11.2.0",
 		"pocketbase": "^0.26.0",
+		"tailwindcss": "^4.1.8",
 		"zod": "^3.25.49"
 	}
 }
