@@ -1,3 +1,4 @@
+import Dropdown from './dropdown.svelte';
 import Icon from './icon.svelte';
 
-export { Icon };
+export { Dropdown, Icon };
