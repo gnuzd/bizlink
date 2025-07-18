@@ -17,11 +17,14 @@
 	};
 
 	const footerMenu = {
-		operators: [{ icon: 'LifeBuoy', label: 'FAQ', path: '/faq' }]
+		operators: [
+			{ icon: 'LifeBuoy', label: 'FAQ', path: '/faq' }
+			// { icon: 'LogIn', label: 'FAQ', path: '/faq' }
+		]
 	};
 </script>
 
-<div class="flex h-dvh w-full bg-base-300">
+<div class="flex h-dvh w-full bg-base-200/50">
 	<div class="flex flex-col">
 		<ul class="menu w-56 gap-1 flex-1">
 			<li>

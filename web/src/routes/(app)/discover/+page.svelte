@@ -1,4 +1,4 @@
-<div class="container mx-auto space-y-10 divider-y div">
+<div class=" mx-auto space-y-10 divider-y div">
 	<div class="space-y-4">
 		<div class="carousel carousel-center bg-base-300 w-full rounded-box space-x-4 p-4">
 			<div class="carousel-item">
